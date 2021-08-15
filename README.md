@@ -17,4 +17,4 @@ Put this file config.json in bin/debug folder
 
 ## Form Design
 
-    ![form design](https://github.com/freddywicaksono/vbnet_read_json_file/blob/main/read_json_file_form.JPG?raw=true)
+    ![form design](https://github.com/freddywicaksono/vbnet_read_json_file/blob/main/read_json_file_form.JPG)
