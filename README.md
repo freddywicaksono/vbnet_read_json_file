@@ -13,7 +13,7 @@ This library can be download from this location
     
   or using Nuget Package Manager Console
     
-    PM> Install-Package Newtonsoft.Json 
+    PM> Install-Package Newtonsoft.Json -Version 13.0.1 
     
 ## json file
 Put file **config.json** in bin/debug folder
