@@ -1,5 +1,8 @@
-# vbnet_read_json_file
+# VB Net Read Data from a Json file
 This is an example of an Application reading data from a json file
+
+## VB Net Version
+I use VB Net 2015
 
 ## JSON Library
 add Newtonsoft JSON Net to the project
