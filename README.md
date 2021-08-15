@@ -8,5 +8,13 @@ This library can be download from this location
 
     https://github.com/JamesNK/Newtonsoft.Json/releases
     
-## config.json
-Put this file in bin/debug folder
+  or using Nuget Package Manager Console
+    
+    PM> Install-Package Newtonsoft.Json 
+    
+## json file
+Put this file config.json in bin/debug folder
+
+## Form Design
+
+    ![form design](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
