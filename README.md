@@ -13,7 +13,7 @@ This library can be download from this location
     PM> Install-Package Newtonsoft.Json 
     
 ## json file
-Put this file config.json in bin/debug folder
+Put file **config.json** in bin/debug folder
 
 ## Form Design
 
